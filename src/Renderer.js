@@ -42,3 +42,5 @@ class Renderer {
         this.renderMeat(data.meat)
     }
 }
+
+export { Renderer };
